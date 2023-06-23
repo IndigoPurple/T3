@@ -50,7 +50,7 @@ To prepare reference color images for your own video, it is recommended to first
 
 ## Dataset
 
-Pre-trained models are provided in the `inpput` folder. Therefore, <span style="color:red">**you can quickly get started without downloading datasets**</span>.
+Pre-trained models are provided in the `input` folder. Therefore, <span style="color:red">**you can quickly get started without downloading datasets**</span>.
 
 
 
