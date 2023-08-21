@@ -2,9 +2,6 @@
 
 ![Teaser Image](teaser.gif)
 
-This code is implemented based on [DeepRemaster](https://github.com/vienhongquang/deepremastering).
-
-
 ## Dependencies
 
 - [PyTorch (0.4.1+)](https://pytorch.org/) [torchvision](https://pytorch.org/docs/master/torchvision/)
@@ -53,6 +50,17 @@ To prepare reference color images for your own video, it is recommended to first
 Pre-trained models are provided in the `input` folder. Therefore, <span style="color:red">**you can quickly get started without downloading datasets**</span>.
 
 
+# Citation
+Cite our paper if you find it interesting!
+```
+@article{zhao2023improving,
+  title={Improving Video Colorization by Test-Time Tuning},
+  author={Zhao, Yaping and Zheng, Haitian and Luo, Jiebo and Lam, Edmund Y},
+  journal={arXiv preprint arXiv:2307.11757},
+  year={2023}
+}
+```
 
+This code is implemented based on [DeepRemaster](https://github.com/vienhongquang/deepremastering).
 
 
