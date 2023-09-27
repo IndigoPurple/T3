@@ -1,5 +1,13 @@
 # Improving Video Colorization by Test-Time Tuning (ICIP'23)
 
+In this repository we provide code of the paper:
+> **Improving Video Colorization by Test-Time Tuning**
+
+> Yaping Zhao, Haitian Zheng, Jiebo Luo, Edmund Y. Lam
+
+> paper link: https://ieeexplore.ieee.org/abstract/document/10222579
+
+
 ![Teaser Image](teaser.gif)
 
 ## Dependencies
@@ -53,11 +61,13 @@ Pre-trained models are provided in the `input` folder. Therefore, <span style="c
 # Citation
 Cite our paper if you find it interesting!
 ```
-@article{zhao2023improving,
+@inproceedings{zhao2023improving,
   title={Improving Video Colorization by Test-Time Tuning},
   author={Zhao, Yaping and Zheng, Haitian and Luo, Jiebo and Lam, Edmund Y},
-  journal={arXiv preprint arXiv:2307.11757},
-  year={2023}
+  booktitle={2023 IEEE International Conference on Image Processing (ICIP)},
+  pages={166--170},
+  year={2023},
+  organization={IEEE}
 }
 ```
 
