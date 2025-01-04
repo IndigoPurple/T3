@@ -14,10 +14,10 @@ In this repository we provide code of the paper:
 ### Quick Start
 To get started quickly, you can set up the environment by running the following commands:
 
-'''
+```
 conda env create -f environment.yml
 conda activate color
-'''
+```
 
 ### Custom Installation
 Alternatively, you can create a custom environment that meets the following requirements:
