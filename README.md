@@ -11,7 +11,16 @@ In this repository we provide code of the paper:
 ![Teaser Image](teaser.gif)
 
 ## Dependencies
+### Quick Start
+To get started quickly, you can set up the environment by running the following commands:
 
+'''
+conda env create -f environment.yml
+conda activate color
+'''
+
+### Custom Installation
+Alternatively, you can create a custom environment that meets the following requirements:
 - [PyTorch (0.4.1+)](https://pytorch.org/) [torchvision](https://pytorch.org/docs/master/torchvision/)
 - [FFmpeg (requires to be configured with --enable-libx264)](https://ffmpeg.org/)
 - [opencv (3.4.1+)](https://opencv.org/)
